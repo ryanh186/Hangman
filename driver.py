@@ -10,7 +10,8 @@ def main():
     num_underscore = len(user1input)
     
     for i in num_underscore:
-        print(" _ ")
+        print('_ ', end='')
+    print('')
 
 
 if __name__ == "__main__":
