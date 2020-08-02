@@ -1,3 +1,8 @@
+'''
+Collaborators: Karime, Jaoudat, Ryan
+               maamari@usc.edu, ...
+'''
+
 from getpass import getpass
 
 def main():
